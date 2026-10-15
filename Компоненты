@@ -52,7 +52,7 @@ ESP32 - esp32-solo-1
 Микрофон -- Надо
 Динамик -- Надо
 Сенсорный индикатор -- Надо
-Raspberry Pi с установленным Home Assistant / MajorDoMo -- Надо
+
 
 На руках:
 2 Rgb светодиода
@@ -71,3 +71,4 @@ Raspberry Pi с установленным Home Assistant / MajorDoMo -- Над�
 1 переходник UART-USB -- Вернуть
 1 Умная розетка Sonoff S26 -- Под вопросом
 1 Умный патрон Sonoff Slampher R2 -- Под вопросом
+1 Raspberry Pi
