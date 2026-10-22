@@ -32,7 +32,7 @@ ESP32
 Основной контроллер: Raspberry Pi с установленным Home Assistant / MajorDoMo
 
 
-Итоговый список компонентов:
+Итоговый список компонентов: (требуется обновление)
 
 Светодиодная лента - вместо нее Rgb светодиоды
 Датчик температуры - DHT-22
@@ -75,3 +75,12 @@ Raspberry Pi - Есть
 1 Умная розетка Sonoff S26 -- Под вопросом
 1 Умный патрон Sonoff Slampher R2 -- Под вопросом
 1 Raspberry Pi
+1 BME-280
+1 mFi Door Sensor
+1 mFi mPort
+1 mFi Ceiling Mount Motions Sensor
+1 Fitec FS90R
+1 Зуммер пьезоэлектрический (пассивный) 12085, 12*8.5мм, 16 Ом
+1 Igloo 1100 CU PWM
+1 Реле SRD-05VDC-SL-C
+1 Реле JQC-3FF-S-Z
