@@ -58,7 +58,7 @@ Raspberry Pi - Есть
 1 mFi mPort -- Вернуть
 
 2 Rgb светодиода
-1 плата esp32-solo-1
+2 плата esp32-solo-1
 1 экранчик большой 
 1 датчик углекислого газа MQ-135
 10 резисторов на 10 кОм
@@ -76,6 +76,8 @@ Raspberry Pi - Есть
 1 Igloo 1100 CU PWM
 1 Реле SRD-05VDC-SL-C
 1 Реле JQC-3FF-S-Z
+1 mFi Current Sensor
+1 Блок питания Robiton и клемник
 1 фоторезистор -- Под вопросом
 1 Умная розетка Sonoff S26 -- Под вопросом
 1 Умный патрон Sonoff Slampher R2 -- Под вопросом
