@@ -55,6 +55,7 @@ Raspberry Pi - Есть
 1 датчик влажности и температуры DHT-22 -- вернуть
 1 orange pi lite -- Вернуть
 1 переходник UART-USB -- Вернуть
+1 mFi mPort -- Вернуть
 
 2 Rgb светодиода
 1 плата esp32-solo-1
@@ -69,7 +70,6 @@ Raspberry Pi - Есть
 1 Raspberry Pi
 1 BME-280
 1 mFi Door Sensor
-1 mFi mPort -- Пока не относится к какому либо блоку
 1 mFi Ceiling Mount Motions Sensor
 1 Fitec FS90R
 1 Зуммер пьезоэлектрический (пассивный) 12085, 12*8.5мм, 16 Ом
